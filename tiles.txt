@@ -1,0 +1,40 @@
+GO Go 200
+PROPERTY Vine_Street -15 
+BLANK Blank1 
+PROPERTY Coventry_Street -57 
+TAX Income_Tax -100
+PROPERTY Marylebone_Station -500 
+PROPERTY Leciester_Square -68
+BLANK Blank2
+PROPERTY Bow_Street -71
+PROPERTY Whitechapel_Road -81
+JAIL Jail
+PROPERTY The_Angel_Islington -91
+PROPERTY Electric_Company -124
+PROPERTY Trafalgar_Square -97
+PROPERTY Northumrl'd_Avenue -112
+PROPERTY Fenchurch_St._Station -700
+PROPERTY M'Borough_Street -125
+BLANK Blank3 
+PROPERTY Fleet_Street -148
+PROPERTY Old_Kent_Road -208
+BLANK Free_Parking 
+PROPERTY Whitehall -211
+BLANK Blank4 
+PROPERTY Pentonville_Road -215
+PROPERTY Pall_Mall -128
+PROPERTY King's_Cross_Station -1000
+PROPERTY Bond_Street -271
+PROPERTY Strand -320
+PROPERTY Water_Works -800
+PROPERTY Regent_Street -370
+GO_TO_JAIL Go_To_Jail 
+PROPERTY Euston_Road -404
+PROPERTY Piccadilly -440
+BLANK Blank5 
+PROPERTY Oxford_Street -550
+PROPERTY Liverpool_St._Station -1500
+BLANK Blank6 
+PROPERTY Park_Lane -562
+TAX Super_Tax -200
+PROPERTY Mayfair -1800
